@@ -14,12 +14,12 @@
   
 🌱 I’m currently learning Full stack web developer and active competetive programer 
 
- 👯 My Linkdin : https://www.linkedin.com/in/ansh-chaturvedi-0129292/
+ 👯 My Linkdin :https://www.linkedin.com/in/anupam25/
 
  💬 Ask me about for any help
 
  📫 How to reach me:  
-  Mail me at "anshchaturvadi2000@gmail.com"  
+  Mail me at "anupamanand2502@gmail.com"  
   
 
 
